@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 1
+color:
+  lightness: 0.5859331
+  brandStrength: 0.260853
+  saturation: 0.3071721
+  rhythmicContrast: 0.1473709
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: DesignHamptons
