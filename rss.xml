@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DesignHamptons]]></title>
+        <description><![CDATA[DesignHamptons]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 25 Feb 2016 17:02:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coming soon... 100% silk handmade scarves]]></title>
+            <description><![CDATA[<article><h1>Coming soon... 100% silk handmade scarves</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac919806-2786-421a-bab8-6b609966a8cf.png"></article>]]></description>
+            <link>undefinedcoming-soon-100-silk-handmade-scarves/index.html</link>
+            <guid isPermaLink="false">0e46ff27-a9cd-4be3-a3c6-36db892c4d13</guid>
+            <pubDate>Thu, 25 Feb 2016 17:01:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
